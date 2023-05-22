@@ -31,3 +31,8 @@ Sequelize: 6.31.1
 Insomnia
 Nodemon: 2.0.12
 Visual Studio Code: Website
+
+Deployed Application Link:
+https://vargacar.github.io/umbr-code/
+GitHub Repository:
+https://github.com/vargacar/umbr-code/tree/main
